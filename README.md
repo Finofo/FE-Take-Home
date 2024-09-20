@@ -26,8 +26,8 @@ Create a basic application using React and TypeScript to display a list of fruit
 
 4. **Fruit List**
    - There should be two possible views: Table and List.
-   - List view: each fruit entry should be displayed in the format: {fruit name} ({amount of calories}).
-   - Table view: show the following columns - name, family, order, genus and amount of calories.
+   - **List view**: each fruit entry should be displayed in the format: {fruit name} ({amount of calories}).
+   - **Table view**: show the following columns - name, family, order, genus and amount of calories.
    - Include an "Add" button next to each fruit, allowing the user to add the fruit to a jar. Note that it should be possible to add the same fruit multiple times.
    - Include an "Add" button next to the group name, allowing the user to add all fruits from the group to a jar.
 
@@ -42,7 +42,7 @@ Create a basic application using React and TypeScript to display a list of fruit
 - Consider best practices for data fetching and error handling to simulate real-world applications.
 - Ensure the application is user-friendly and visually appealing.
 - Commit your work to a public github repo and share the link with us
-- Also share the link to a live, deployed version of the application.
+- Also share the link to a **live**, **deployed** version of the application.
 
 ### Evaluation Criteria
 
