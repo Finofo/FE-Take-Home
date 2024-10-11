@@ -11,8 +11,9 @@ Create a basic application using React and TypeScript to display a list of fruit
 ### Requirements
 
 1. **Data Fetching**
-   - Use the Fruityvice API (https://www.fruityvice.com/doc/index.html#api-GET) to fetch the list of fruits.
-   - Base API url - https://www.fruityvice.com
+   - ~~Use the Fruityvice API (https://www.fruityvice.com/doc/index.html#api-GET) to fetch the list of fruits.~~
+   - ~~Base API url - https://www.fruityvice.com~~
+   - Currently the Fruityvice API is down so we prepares for you a simple [GET endpoint](https://wcz3qr33kmjvzotdqt65efniv40kokon.lambda-url.us-east-2.on.aws/) with a copy of the Fruityvice API response data.
 
 2. **Layout**
    - The page should be divided into two sections:
